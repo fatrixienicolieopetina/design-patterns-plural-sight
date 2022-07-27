@@ -8,3 +8,4 @@ These are exercises from the Plural sight course of Brian Hansen http://www.link
     - Abstract Factory
  2. Structural
  	- Adapter
+ 	- Bridge
