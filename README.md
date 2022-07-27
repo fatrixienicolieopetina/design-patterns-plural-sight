@@ -6,3 +6,5 @@ These are exercises from the Plural sight course of Brian Hansen http://www.link
     - Prototype
     - Factory
     - Abstract Factory
+ 2. Structural
+ 	- Adapter
