@@ -16,3 +16,4 @@ These are exercises from the Plural sight course of Brian Hansen http://www.link
  	- Proxy
  3. Behavioral
  	- Chain of Responsibility
+ 	- Command
