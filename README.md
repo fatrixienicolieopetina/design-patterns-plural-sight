@@ -19,3 +19,4 @@ These are exercises from the Plural sight course of Brian Hansen http://www.link
  	- Command
  	- Interpreter
  	- Iterator
+ 	- Mediator
