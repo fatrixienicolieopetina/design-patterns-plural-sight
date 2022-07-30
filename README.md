@@ -17,3 +17,4 @@ These are exercises from the Plural sight course of Brian Hansen http://www.link
  3. Behavioral
  	- Chain of Responsibility
  	- Command
+ 	- Interpreter
