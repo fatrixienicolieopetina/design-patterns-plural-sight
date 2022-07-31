@@ -22,3 +22,4 @@ These are exercises from the Plural sight course of Brian Hansen http://www.link
  	- Mediator
  	- Memento
  	- Observer
+ 	- State
